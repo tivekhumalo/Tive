@@ -1,0 +1,23 @@
+---
+title: "Overview"
+image: lab_logo.svg
+about:
+  template: solana
+  image-shape: rectangle
+  image-width: 18em
+---
+
+Tive B.P. Khumalo is a PhD candidate in the [Statistics, Measurement, and Evaluation in Education](https://education.missouri.edu/educational-school-counseling-psychology/degrees-programs/statistics-measurement-evaluation-education/) program at the College of Education and Human Development of the University of Missouri.
+
+Specific research interests include:
+
+- Bayesian statistical inference and regularization
+- Structural equation modeling
+- Longitudinal data
+- Measurement
+- Latent Modeling
+- Statistical computing
+- Bayesian spatial modeling
+- Machine Learning hyper-parameter tuning and regularization
+
+You can find an overview of my publications, and current projects

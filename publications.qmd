@@ -1,0 +1,15 @@
+---
+title: "Publications"
+format: 
+  html:
+    toc: true
+    toc-location: right
+    link-external-newwindow: true
+---
+
+
+## 2026 - 2027
+
+Bergin, C., J. Roos, B. Khumalo, L. Brockmeier, O. Baron, and A. Vogts. 2026. [“Development and Validation of the Prosocial Behavior in School Scale.”] Psychology in the Schools 63: 1001-1019. (https://doi.org/10.1002/pits.70144)
+
+Khumalo, T.B.P., Winter, S.D. & Bonifay, W. [Fitting Propensity analysis in structural equation modeling: Design considerations and practical guidelines]. [Manuscript Submitted]
