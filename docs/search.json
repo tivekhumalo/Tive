@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Overview",
-    "section": "",
-    "text": "Tive B.P. Khumalo is a PhD candidate in the Statistics, Measurement, and Evaluation in Education program at the College of Education and Human Development of the University of Missouri.\nSpecific research interests include:\n\nBayesian statistical inference and regularization\nStructural equation modeling\nLongitudinal data\nMeasurement\nLatent Modeling\nStatistical computing\nBayesian spatial modeling\nMachine Learning hyper-parameter tuning and regularization\n\nYou can find an overview of my publications, and current projects\n\n\n Back to top"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Tive B.P. Khumalo, BSc Physics & Mathematics (Mathematical Statistics and Financial Mathematics), M.A. Statistics, Measurement and Evaluation\nGraduate Student, Statistics, Measurement, and Evaluation in Education\n\n\n\n\n\n\nTive Khumalo received a BSc in Physics and Mathematics from the University of Eswatini (formerly Swaziland) in 2019 and an MA in Statistics, Measurement, and Evaluation in Education from the University of Missouri–Columbia in 2024 through the Fulbright Program. He is currently a PhD candidate in Statistics, Measurement, and Evaluation at the University of Missouri–Columbia. His research focuses on Bayesian statistical methods and regularization, particularly the development and evaluation of statistical approaches for improving estimation, model selection, and prediction in complex models. His methodological interests include Bayesian shrinkage priors, computational statistics, and model evaluation, with applications in structural equation modeling, psychometrics, longitudinal data analysis, and machine learning.\n CV\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks (a selection of)",
-    "section": "",
-    "text": "Only including those in which I was doing (part of) the talking."
-  },
-  {
-    "objectID": "talks.html#invited-talksworkshops",
-    "href": "talks.html#invited-talksworkshops",
-    "title": "Talks (a selection of)",
-    "section": "Invited Talks/Workshops",
-    "text": "Invited Talks/Workshops\nWinter, S. D. (2025, June). The Shape of Good Fit. Invited talk presented at the Quantitative Psychology Speaker Series at the University of California, Davis.\nBonifay, W., Winter, S. D., & Skoblow, H. (2024, April; 2025, April). Comprehensive Statistical Model Evalu- ation: Traditional, Bayesian, and Information-theoretic Methods and User-friendly Software. Workshop presented at the National Council on Measurement and Education (NCME) Conference, Philadelphia, PA.\nAndorra, A. (Host), & Winter, S. D. (Guest). (2024, June). Prior Sensitivity Analysis, Overfitting & Model Selection [Audio podcast episode 109]. In Learning Bayesian Statistics.\nWinter, S. D., Wagenmakers, E.J., & Vandekerckhove, J. (2023, December). Teaching Bayesian Methods in Psychology. Invited panel organized by the Section on Bayesian Education Research and Practice, International Society for Bayesian Analysis. A recording of this panel can be found here: Zoom Recording\nWinter, S. D. (2022, March). Creating Dynamic Reports from your Shiny App. Invited talk presented at R-Ladies St. Louis. A recording of this webinar can be found here: https://www.youtube.com/watch?v=MvGAstDzLJk\nWinter, S. D. (2022, April). Assessing prior-data disagreement in Bayesian SEM. Invited webinar presented at Young Statisticians Europe (YSE). A recording of this webinar can be found here: https://www.youtube.com/watch?v=Cuwhzd-8z4k"
-  },
-  {
-    "objectID": "talks.html#conference-presentations",
-    "href": "talks.html#conference-presentations",
-    "title": "Talks (a selection of)",
-    "section": "Conference Presentations",
-    "text": "Conference Presentations\nWinter, S. D. & Khumalo, T. (2025, July). Fitting propensity analysis in R. In W. Bonifay (chair) and S. Student (discussant) Advanced in the Evaluation of Statistical Model Complexity. Talk presented at the International Meeting of the Psychometric Society (IMPS), Minneapolis, MN.\nWinter, S. D. (2024, May). Evaluating Bayesian SEM Selection and Fit Indices in the Presence of Under- or over-Fitting. In H. Liu (chair) and S. Depaoli (discussant) Model Fit Assessment of Bayesian Structural Equation Modeling. Talk presented at the 36th APS Annual Convention, San Francisco, CA.\nWinter, S. D., Bonifay, W., Skoblow, H. & Watts, A. (2024, April). Evaluating Model Replication Efforts Through Prior Predictive Similarity Checking. Talk presented at the National Council on Measurement and Education (NCME) Conference, Philadelphia, PA.\nWinter, S. D. (2023, August). Goodness-of-fit and Theory Corroboration Through Informative Prior Specifications. In W. Bonifay (chair) High Risk, High Reward: Methods for Rigorous Testing of Psychological Theories. Talk presented at the American Psychological Association (APA) Convention, Washington, DC.\nWinter, S. D. & Bonifay, W. (2023, April). Prior Specification in Bayesian Estimation Affects a Model’s Fitting Propensity. Talk presented at the National Council on Measurement and Education (NCME) Conference, Chicago, Il.\nWinter, S. D., Sinval, J., & Merkle, E. (2023, April). Comparing Priors for Estimating Sparse Ordinal Indicators in Bayesian Factor Analyses. Talk presented at the National Council on Measurement and Education (NCME) Conference, Chicago, Il.\nMcCall, C. & Winter, S. D. (2022, July). Using intersectional research methods to examine intervention efficacy. Roundtable Discussion presented at the Annual Conference of the International School Psychology Association (ISPA), Leuven, Belgium.\nWinter, S. D. & Depaoli, S. (2021, July). Detecting Misspecification in Latent Growth Models with Bayesian Fit Indices. Talk presented at the International Meeting of the Psychometric Society (IMPS).\nWinter, S. D. & Smid, S. (2019, May). Demonstration of an Online Educational Application on Bayesian Default Priors. In R. van de Schoot (chair) Risks of Default Priors in Bayesian Structural Equation Models with Small Samples and Two Approaches on How to Avoid Those Risks. Talk presented at the 31st APS Annual Convention, Washington, DC.\nWinter, S. D. & Lek, K. M. (2018, July). Bayesian Approximate Measurement Invariance: For Those Times When You Have Too Little or Too Much Data. Talk presented at VIII European Congress of Methodology, Jena, Germany."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -49,71 +14,15 @@
     "text": "Bergin, C., Roos, J., Khumalo, B., Brockmeier, L., Baron, O., & Vogts, A. (2026). Development and validation of the Prosocial Behavior in School Scale. Psychology in the Schools, 63, 1001–1019.\nKhumalo, T. B. P., Winter, S. D., & Bonifay, W. Fitting propensity analysis in structural equation modeling: Design considerations and practical guidelines. Manuscript submitted."
   },
   {
-    "objectID": "publications.html#section-1",
-    "href": "publications.html#section-1",
-    "title": "Publications",
-    "section": "2022 - 2023",
-    "text": "2022 - 2023\nDepaoli, S., Winter, S. D., & Liu, H. (2023). Under-Fitting and Over-Fitting: The Performance of Bayesian Model Selection and Fit Indices in SEM. Structural Equation Modeling: A Multidisciplinary Journal. doi:10.1080/10705511.2023.2280952\nParmenter, J. G. & Winter, S. D. (2023). Inequity within the LGBTQ+ Community as a Distal Stressor: An Extension of Minority Stress Theory. Psychology of Sexual Orientation and Gender Diversity. doi:10.1037/sgd0000674\nMerkle, E., Ariyo, O., Winter, S. D., and Garnier-Villarreal, M. (2023). Opaque Prior Distributions in Bayesian SEM. Methodology, 19(3), 228-255. doi:10.5964/meth.11167\nWinter, S. D., & Depaoli, S. (2023). Illustrating the Value of Prior Predictive Checking for Bayesian Structural Equation Modeling. Structural Equation Modeling: A Multidisciplinary Journal. doi:10.1080/10705511.2022.2164286 [OSF]\nWinter, S. D., & Depaoli, S. (2022). Detecting Prior-Data Disagreement in Bayesian Structural Equation Modeling. Structural Equation Modeling: A Multidisciplinary Journal. doi:10.1080/10705511.2022.2039066 [OSF]\nWinter, S. D., & Depaoli, S. (2022). Sensitivity of Bayesian Model Fit Indices to the Prior Specification of Latent Growth Models. Structural Equation Modeling: A Multidisciplinary Journal, 29(5), 667-686. doi:10.1080/10705511.2022.2032078 [OSF]\nWinter, S. D., & Depaoli, S. (2022). Performance of Model Fit and Selection Indices for Bayesian Structural Equation Modeling with Missing Data. Structural Equation Modeling: A Multidisciplinary Journal, 29(4), 531-549. doi:10.1080/10705511.2021.2018656 [OSF]"
-  },
-  {
-    "objectID": "publications.html#section-2",
-    "href": "publications.html#section-2",
-    "title": "Publications",
-    "section": "2020 - 2021",
-    "text": "2020 - 2021\nvan de Schoot, R., Winter, S. D., Griffioen, E., Grimmelikhuijsen, S., Arts, I., Veen, D., Grand- field, E. M., & Tummers, L. G. (2021). The Use of Questionable Research Practices to Survive in Academia: Expert Elicitation, Prior-Data Conflicts, Bayes Factors for Replication Effects, and the Bayes Truth Serum. Frontiers in Psychology: Quantitative Psychology & Measurement, 12, 621547 doi:10.3389/fpsyg.2021.621547 [OSF]\nArroyo, A. C., Winter, S. D., Depaoli, S., & Zawadzki, M. J. (2021). Illuminating Differences in The Psychological Predictors of Academic Performance for First- And Continuing-Generation Students. Journal of Educational and Psychological Research, 3(2), 234-246.\nDepaoli, S., Winter, S. D., & Visser, M. (2020). The Importance of Prior Sensitivity Analysis in Bayesian Statistics: Demonstrations using an Interactive Shiny App. Frontiers in Psychology: Quantitative Psychology & Measurement, 11, 3271. doi:10.3389/fpsyg.2020.608045 [OSF]\nSmid, S. C., & Winter, S. D. (2020). Dangers of the Defaults: A Tutorial on the Impact of Default Priors when using Bayesian SEM with Small Samples. Frontiers in Psychology: Quantitative Psychology & Measurement, 11, 611963. doi:10.3389/fpsyg.2020.611963 [OSF]\nWinter, S. D., & Depaoli, S. (2020). An Illustration of Bayesian Approximate Measurement Invariance with Longitudinal Data and a Small Sample Size. International Journal of Behavioral Development, 44(4), 371-382. doi:10.1177/0165025419880610"
-  },
-  {
-    "objectID": "publications.html#section-3",
-    "href": "publications.html#section-3",
-    "title": "Publications",
-    "section": "2018 - 2019",
-    "text": "2018 - 2019\nDepaoli, S., Winter, S. D., Lai, K., & Guerra-Peña, K. (2019). Implementing continuous non-normal skewed distributions in latent growth mixture modeling: An assessment of specification errors and class enumeration. Multivariate Behavioral Research, 54(6), 795-821. doi:10.1080/00273171.2019.1593813\nHoorn, J. F., & Winter, S. D. (2018). Here comes the bad news: Doctor robot taking over. International Journal of Social Robotics, 10, 519-535. doi:10.1007/s12369-017-0455-2\nTiemensma, J., Depaoli, S., Winter, S. D., Felt, J. M., Rus, H., & Arroyo, A. C. (2018). The Performance of the IES-R for Latinos and non-Latinos: Assessing Measurement Invariance. PLoS ONE, 13(4), e0195229. doi:10.1371/journal.pone.0195229\nvan de Schoot, R., Sijbrandij, M., Depaoli, S., Winter, S. D., & van Loey, N. (2018). Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation. Multivariate Behavioral Research, 53(2), 267-291. doi:10.1080/00273171.2017.1412293 [OSF]\nWinter, S. D., Depaoli, S., & Tiemensma, J. (2018). Assessing differences in how the CushingQoL is interpreted across countries: Comparing patients from the U.S. and the Netherlands. Frontiers in Endocrinology, 9, 368.doi:10.3389/fendo.2018.00368"
-  },
-  {
-    "objectID": "publications.html#pre-2018",
-    "href": "publications.html#pre-2018",
-    "title": "Publications",
-    "section": "Pre-2018",
-    "text": "Pre-2018\nvan de Schoot, R., Sijbrandij, M., Winter, S. D., Depaoli, S., & Vermunt, J. K. (2017). The GRoLTS- Checklist: Guidelines for reporting on latent trajectory studies. Structural Equation Modeling: A Multidisciplinary Journal, 24(3), 451-467. doi:10.1080/10705511.2016.1247646 [OSF]\nvan de Schoot, R., Winter, S. D., Ryan, O., Zondervan-Zwijnenburg, M. & Depaoli, S. (2017). A systematic review of Bayesian articles in psychology: The last 25 years. Psychological Methods, 22(2), 217-239. doi:10.1037/met0000100\nKonijn, E. A., van der Schoot, R., Winter, S. D., & Ferguson, C. J. (2015). Possible solution to publication bias through Bayesian statistics, including proper null hypothesis testing. Communication Methods and Measures, 9(4), 280-302. doi:10.1080/19312458.2015.1096332"
-  },
-  {
-    "objectID": "publications.html#book-chapters",
-    "href": "publications.html#book-chapters",
-    "title": "Publications",
-    "section": "Book Chapters",
-    "text": "Book Chapters\nDepaoli, S., Kaplan, D., & Winter, S. D. (2023). Foundations and extensions in Bayesian structural equation modeling. In Hoyle, R. (2nd Ed.) Handbook of structural equation modeling. New York, NY: The Guilford Press. [OSF]\nvan de Schoot, R., Griffioen, E., & Winter, S. D. (2021). Dealing with imperfect elicitation results. In Hanea, A.M., Nane, G.F., Bedford, T., French, S. (Eds.), Expert Judgment in Risk and Decision Analysis. Basel: Springer International Publishing. [OSF]\nvan de Schoot, R., Veen, D., Smeets, L., Winter, S. D., & Depaoli, S. (2020). A Tutorial on Using The Wambs Checklist to Avoid The Misuse of Bayesian Statistics. In R. van de Schoot & M. Mio ̆cević (Eds.),Small Sample Size Solutions: A guide for applied researchers and practitioners (pp. 30–49). London: Routledge. doi:10.4324/9780429273872-4"
-  },
-  {
-    "objectID": "docs/publications.html",
-    "href": "docs/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Bergin, C., J. Roos, B. Khumalo, L. Brockmeier, O. Baron, and A. Vogts. 2026. [“Development and Validation of the Prosocial Behavior in School Scale.”] Psychology in the Schools 63: 1001-1019. (https://doi.org/10.1002/pits.70144)\nKhumalo, T.B.P., Winter, S.D. & Bonifay, W. [Fitting Propensity analysis in structural equation modeling: Design considerations and practical guidelines]. [Manuscript Submitted]"
-  },
-  {
-    "objectID": "docs/publications.html#section",
-    "href": "docs/publications.html#section",
-    "title": "Publications",
-    "section": "",
-    "text": "Bergin, C., J. Roos, B. Khumalo, L. Brockmeier, O. Baron, and A. Vogts. 2026. [“Development and Validation of the Prosocial Behavior in School Scale.”] Psychology in the Schools 63: 1001-1019. (https://doi.org/10.1002/pits.70144)\nKhumalo, T.B.P., Winter, S.D. & Bonifay, W. [Fitting Propensity analysis in structural equation modeling: Design considerations and practical guidelines]. [Manuscript Submitted]"
-  },
-  {
-    "objectID": "docs/index.html",
-    "href": "docs/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Overview",
     "section": "",
     "text": "Tive B.P. Khumalo is a PhD candidate in the Statistics, Measurement, and Evaluation in Education program at the College of Education and Human Development of the University of Missouri.\nSpecific research interests include:\n\nBayesian statistical inference and regularization\nStructural equation modeling\nLongitudinal data\nMeasurement\nLatent Modeling\nStatistical computing\nBayesian spatial modeling\nMachine Learning hyper-parameter tuning and regularization\n\nYou can find an overview of my publications, and current projects\n\n\n Back to top"
   },
   {
-    "objectID": "docs/404.html",
-    "href": "docs/404.html",
-    "title": "Page Not Found",
-    "section": "",
-    "text": "The page you requested cannot be found (perhaps it was moved or renamed).\nYou may want to try searching to find the page’s new location.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "docs/people.html",
-    "href": "docs/people.html",
+    "objectID": "people.html",
+    "href": "people.html",
     "title": "People",
     "section": "",
     "text": "Tive B.P. Khumalo, BSc Physics & Mathematics (Mathematical Statistics and Financial Mathematics), M.A. Statistics, Measurement and Evaluation\nGraduate Student, Statistics, Measurement, and Evaluation in Education\n\n\n\n\n\n\nTive Khumalo received a BSc in Physics and Mathematics from the University of Eswatini (formerly Swaziland) in 2019 and an MA in Statistics, Measurement, and Evaluation in Education from the University of Missouri–Columbia in 2024 through the Fulbright Program. He is currently a PhD candidate in Statistics, Measurement, and Evaluation at the University of Missouri–Columbia. His research focuses on Bayesian statistical methods and regularization, particularly the development and evaluation of statistical approaches for improving estimation, model selection, and prediction in complex models. His methodological interests include Bayesian shrinkage priors, computational statistics, and model evaluation, with applications in structural equation modeling, psychometrics, longitudinal data analysis, and machine learning.\n CV\n\n\n\n\n\n\n\n Back to top"
