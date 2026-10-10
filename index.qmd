@@ -1,6 +1,5 @@
 ---
 title: "Overview"
-image: lab_logo.svg
 about:
   template: solana
   image-shape: rectangle

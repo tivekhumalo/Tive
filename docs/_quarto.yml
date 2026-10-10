@@ -13,6 +13,8 @@ website:
         text: People
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Talks
         menu:
           - href: https://winterstat.github.io/escp8082_rlabs
             text: ESCP 8082 Foundations of Measurement

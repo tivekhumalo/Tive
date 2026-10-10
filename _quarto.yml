@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Tive Khumalo"
-  favicon: lab_favicon_small.png
   navbar:
     left:
       - href: index.qmd
@@ -13,11 +12,8 @@ website:
         text: People
       - href: publications.qmd
         text: Publications
-        menu:
-          - href: https://winterstat.github.io/escp8082_rlabs
-            text: ESCP 8082 Foundations of Measurement
-          - href: https://winterstat.github.io/escp9710_rlabs
-            text: ESCP 9710 Structural Equation Modeling
+      - href: talks.qmd
+        text: Talks
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/tive-khumalo-62240318b/?isSelfProfile=true
