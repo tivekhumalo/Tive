@@ -12,8 +12,6 @@ website:
         text: People
       - href: publications.qmd
         text: Publications
-      - href: talks.qmd
-        text: Talks
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/tive-khumalo-62240318b/?isSelfProfile=true

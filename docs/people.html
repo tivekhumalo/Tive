@@ -80,12 +80,12 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="People – Tive Khumalo">
 <meta property="og:description" content="">
-<meta property="og:image" content="static/photos/headshot_khumalo.jpeg">
+<meta property="og:image" content="https://tivekhumalo.github.io/Tive/static/photos/headshot_khumalo.jpeg">
 <meta property="og:site_name" content="Tive Khumalo">
 <meta property="og:image:alt" content="headshot placeholder">
 <meta name="twitter:title" content="People – Tive Khumalo">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="static/photos/headshot_khumalo.jpeg">
+<meta name="twitter:image" content="https://tivekhumalo.github.io/Tive/static/photos/headshot_khumalo.jpeg">
 <meta name="twitter:image:alt" content="headshot placeholder">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -281,10 +281,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./talks.qmd"> 
-<span class="menu-text">Talks</span></a>
-  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -438,7 +434,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/tivekhumalo\.github\.io\/Tive\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
